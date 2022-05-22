@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2022-05-18 16:13:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2022-02-03 19:18:28 +0000"
@@ -416,6 +422,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2022-02-12 11:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2022-05-18 16:13:33 +0100"
     },
     "done": true
   },
@@ -1073,6 +1085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2022-05-18 16:13:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2022-02-04 00:46:55 +0000"
@@ -1113,10 +1131,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2022-02-20 22:21:31 +0000",
       "minecraft:nether_wastes": "2022-03-09 20:39:21 +0000",
+      "minecraft:soul_sand_valley": "2022-05-21 21:27:32 +0100",
       "minecraft:warped_forest": "2022-04-19 23:01:44 +0100",
       "minecraft:basalt_deltas": "2022-04-19 23:07:39 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -1325,6 +1344,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2022-02-05 23:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_purple_dye": "2022-05-18 09:10:47 +0100"
     },
     "done": true
   },
@@ -2071,6 +2096,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2022-02-07 16:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2022-05-18 09:10:47 +0100"
     },
     "done": true
   },
@@ -2869,6 +2900,7 @@
       "minecraft:piglin_brute": "2022-04-20 11:02:21 +0100",
       "minecraft:creeper": "2022-02-08 13:43:04 +0000",
       "minecraft:slime": "2022-02-17 21:34:46 +0000",
+      "minecraft:evoker": "2022-05-18 12:35:49 +0100",
       "minecraft:phantom": "2022-02-25 18:55:15 +0000",
       "minecraft:zombified_piglin": "2022-02-21 17:51:01 +0000",
       "minecraft:witch": "2022-04-07 21:58:14 +0100",
@@ -3484,6 +3516,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2022-02-03 22:13:14 +0000",
       "minecraft:taiga": "2022-02-03 18:49:35 +0000",
+      "minecraft:deep_ocean": "2022-05-21 21:57:43 +0100",
       "minecraft:frozen_river": "2022-05-13 21:05:14 +0100",
       "minecraft:sunflower_plains": "2022-02-05 13:53:54 +0000",
       "minecraft:birch_forest": "2022-02-21 15:24:03 +0000",
@@ -4010,6 +4043,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2022-03-29 12:34:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2022-05-21 21:39:59 +0100"
     },
     "done": true
   },
@@ -4874,6 +4913,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2022-03-29 12:34:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2022-05-21 21:41:16 +0100"
     },
     "done": true
   },
