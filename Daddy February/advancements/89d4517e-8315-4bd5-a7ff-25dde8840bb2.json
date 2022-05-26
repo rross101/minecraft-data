@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2022-05-26 18:20:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2022-02-03 19:18:57 +0000"
@@ -554,6 +560,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2022-03-21 21:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_lime_dye": "2022-05-26 14:45:33 +0100"
     },
     "done": true
   },
@@ -2588,6 +2600,12 @@
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2022-02-24 22:07:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2022-05-26 14:45:33 +0100"
     },
     "done": true
   },
