@@ -1,6 +1,7 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2023-04-28 20:59:28 +0100",
       "minecraft:old_growth_pine_taiga": "2022-02-03 22:13:14 +0000",
       "minecraft:taiga": "2022-02-03 18:49:35 +0000",
       "minecraft:deep_ocean": "2022-05-21 21:57:43 +0100",
@@ -21,10 +22,12 @@
       "minecraft:dripstone_caves": "2022-02-04 18:03:53 +0000",
       "minecraft:snowy_taiga": "2022-05-13 21:05:33 +0100",
       "minecraft:swamp": "2022-05-01 22:57:45 +0100",
+      "minecraft:jagged_peaks": "2023-04-28 20:59:41 +0100",
       "minecraft:cold_ocean": "2022-02-03 22:13:45 +0000",
       "minecraft:forest": "2022-02-03 22:18:45 +0000",
       "minecraft:lush_caves": "2022-02-12 23:24:43 +0000",
       "minecraft:deep_cold_ocean": "2022-02-15 16:02:31 +0000",
+      "minecraft:ice_spikes": "2023-04-28 20:56:27 +0100",
       "minecraft:frozen_ocean": "2022-05-13 20:44:45 +0100",
       "minecraft:desert": "2022-04-15 18:17:14 +0100",
       "minecraft:windswept_forest": "2022-03-16 13:29:19 +0000",
@@ -1493,6 +1496,7 @@
       "minecraft:piglin": "2022-02-21 21:23:41 +0000",
       "minecraft:silverfish": "2022-02-05 19:42:14 +0000",
       "minecraft:enderman": "2022-04-07 09:39:17 +0100",
+      "minecraft:stray": "2023-04-28 20:57:00 +0100",
       "minecraft:zombie": "2022-02-04 06:24:24 +0000",
       "minecraft:drowned": "2022-04-22 21:03:44 +0100",
       "minecraft:zombie_villager": "2022-02-09 14:59:55 +0000"
@@ -5306,6 +5310,12 @@
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2023-04-21 23:16:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2023-04-22 21:24:19 +0100"
     },
     "done": true
   },
