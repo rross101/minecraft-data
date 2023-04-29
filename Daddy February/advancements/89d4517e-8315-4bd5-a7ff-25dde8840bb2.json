@@ -5319,5 +5319,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2023-04-29 16:14:19 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }
