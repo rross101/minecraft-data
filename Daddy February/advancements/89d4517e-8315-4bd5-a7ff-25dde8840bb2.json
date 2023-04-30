@@ -41,6 +41,7 @@
       "minecraft:deep_lukewarm_ocean": "2022-03-11 13:43:49 +0000",
       "minecraft:flower_forest": "2022-02-05 13:54:12 +0000",
       "minecraft:old_growth_birch_forest": "2022-02-21 13:33:04 +0000",
+      "minecraft:deep_dark": "2023-04-30 20:55:32 +0100",
       "minecraft:meadow": "2022-02-21 15:26:01 +0000",
       "minecraft:savanna": "2022-03-11 13:36:45 +0000",
       "minecraft:plains": "2022-02-03 22:26:57 +0000"
@@ -5322,6 +5323,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2023-04-29 16:14:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2023-04-30 21:00:26 +0100"
     },
     "done": true
   },
