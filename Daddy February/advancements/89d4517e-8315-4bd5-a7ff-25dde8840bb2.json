@@ -1414,6 +1414,7 @@
       "pumpkin_pie": "2022-04-07 14:27:48 +0100",
       "mutton": "2023-04-21 22:52:35 +0100",
       "bread": "2022-02-04 22:53:45 +0000",
+      "golden_apple": "2023-05-17 21:11:15 +0100",
       "suspicious_stew": "2022-04-22 07:36:32 +0100",
       "cookie": "2022-04-23 22:33:46 +0100",
       "melon_slice": "2022-02-11 22:37:42 +0000",
@@ -5446,6 +5447,12 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2023-05-17 15:59:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2023-05-17 20:56:51 +0100"
     },
     "done": true
   },
