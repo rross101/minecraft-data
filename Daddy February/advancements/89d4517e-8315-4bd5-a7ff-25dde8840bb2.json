@@ -25,6 +25,7 @@
       "minecraft:dripstone_caves": "2022-02-04 18:03:53 +0000",
       "minecraft:snowy_taiga": "2022-05-13 21:05:33 +0100",
       "minecraft:swamp": "2022-05-01 22:57:45 +0100",
+      "minecraft:grove": "2023-06-13 20:09:18 +0100",
       "minecraft:jagged_peaks": "2023-04-28 20:59:41 +0100",
       "minecraft:cold_ocean": "2022-02-03 22:13:45 +0000",
       "minecraft:forest": "2022-02-03 22:18:45 +0000",
@@ -5187,21 +5188,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2023-06-10 15:57:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2023-06-10 16:09:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2023-06-10 16:09:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2023-06-10 16:09:54 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_slab": {
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
-      "has_planks": "2023-06-10 16:36:19 +0100"
+      "has_sentry_armor_trim_smithing_template": "2023-06-10 16:16:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2023-06-10 16:16:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2023-06-10 16:34:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2023-06-10 16:35:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2023-06-10 16:35:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2023-06-10 16:35:50 +0100"
     },
     "done": true
   },
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-06-10 16:36:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2023-06-10 16:36:19 +0100"
     },
     "done": true
   },
@@ -5223,45 +5278,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
-    "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2023-06-10 16:16:00 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2023-06-10 16:36:19 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2023-06-10 16:16:00 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2023-06-10 16:36:19 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_wool": {
-    "criteria": {
-      "has_needed_dye": "2023-06-10 16:35:50 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_bed": {
-    "criteria": {
-      "has_needed_dye": "2023-06-10 16:35:50 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2023-06-10 17:24:32 +0100"
     },
     "done": true
   },
@@ -5277,15 +5302,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_planks": {
+  "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
-      "has_log": "2023-06-10 16:09:36 +0100"
+      "has_planks": "2023-06-10 16:36:19 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+  "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
-      "has_book": "2023-06-10 15:57:34 +0100"
+      "in_water": "2023-06-10 17:24:32 +0100"
     },
     "done": true
   },
@@ -5295,29 +5320,23 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+  "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
-      "has_needed_dye": "2023-06-10 16:35:50 +0100"
+      "has_bamboo": "2023-06-13 16:51:54 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/cherry_door": {
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
     "criteria": {
-      "has_planks": "2023-06-10 16:36:19 +0100"
+      "has_emerald_ore": "2023-06-13 20:11:40 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_wood": {
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
     "criteria": {
-      "has_log": "2023-06-10 16:09:36 +0100"
+      "has_emerald_ore": "2023-06-13 20:11:40 +0100"
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
-    "criteria": {
-      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2023-06-10 16:34:34 +0100"
-    },
-    "done": true
-  },
-  "DataVersion": 3463
+  "DataVersion": 3465
 }
